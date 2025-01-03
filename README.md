@@ -1,7 +1,5 @@
 # React-Based QR Code Generator
 
-This project is a QR Code Generator built with React, allowing users to create and download QR codes for text, URLs, and more.
-
 ---
 
 ## Available Scripts
